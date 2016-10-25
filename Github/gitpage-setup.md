@@ -20,8 +20,7 @@
         git commit -m 'init'
         git push -u origin master
 
-    6. 완성!
-        http://깃헙이름.github.io
+    6. 완성! http://깃헙이름.github.io
     ```
 
 ### 참조 페이지
