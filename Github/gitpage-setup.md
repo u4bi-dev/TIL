@@ -25,6 +25,6 @@
 
 ### 참조 페이지
 #####https://pages.github.com
-* 자신의 깃헙페이지 접속하기
-Link: [https://깃헙이름.github.io][gitlink]
+* 자신의 깃헙페이지 접속하기<br>
+[https://깃헙이름.github.io][gitlink]
 [gitlink]: https://깃헙이름.github.io "자신의 깃헙페이지 접속하기"
