@@ -12,5 +12,12 @@
         git commit -m 'init'
         git push -u origin master
     6. 완성! http://깃헙이름.github.io
+
+* 문서 제목
+    ```
+    U4BI 문서제목
+    =============
+    ```
+
 ### 참조 페이지
 #####https://pages.github.com
