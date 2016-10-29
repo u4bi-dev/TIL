@@ -7,21 +7,20 @@
     ```
     app.factory('u4biService', u4biService);
     function u4biService($http, $q){
-	return {
-		'json' : json
-	}
+        return {
+            'json' : json
+        }
     }
 
     function json(path){
         var q =$q.defer();
         $http.get(path).success(function(data){
-	    q.resolve(data);
-	}).error(function(err){
-	    q.reject(err);
-	});
-	return q.promise;
+            q.resolve(data);
+        }).error(function(err){
+            q.reject(err);
+        });
+        return q.promise;
     }
-
     ```
 
 * 컨트롤러단
@@ -29,14 +28,13 @@
     app.controller('u4biController', u4biController);
 
     function u4biController($scope, u4biService) {
-	init();
+        init();
 	function init(){
-	    GitPageService.json('u4bi-api/good.json').then(function(data){
-	        $scope.notice =data;
-	    });
-	}
+            GitPageService.json('u4bi-api/good.json').then(function(data){
+                $scope.notice =data;
+            });
+        }
     }
-
     ```
 
 ### 참조 페이지
