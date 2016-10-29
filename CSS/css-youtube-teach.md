@@ -1,2 +1,2 @@
-## Envato CSS À¯Æ©ºê °­ÀÇ
+## Envato CSS ìœ íŠœë¸Œ ê°•ì˜
 #####http://youtu.be/yTHTo28hwTQ?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F
