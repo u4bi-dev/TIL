@@ -29,7 +29,7 @@
 
     function u4biController($scope, u4biService) {
         init();
-	function init(){
+        function init(){
             GitPageService.json('u4bi-api/good.json').then(function(data){
                 $scope.notice =data;
             });
