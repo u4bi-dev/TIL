@@ -1,0 +1,2 @@
+## react보다-angular2에-더-주목해야하는-이유
+#####http://sculove.github.io/blog/2016/07/11/react%EB%B3%B4%EB%8B%A4-angular2%EC%97%90-%EB%8D%94-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/
