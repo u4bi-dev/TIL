@@ -7,3 +7,5 @@
 #####http://m.blog.naver.com/love_junim/220641341132
 ## On my Angular2 : Getting started
 #####http://www.devcken.io/on-my-angular2-getting-started
+## namooz blog 앵귤러 튜토
+#####http://www.namooz.com/category/angular2/
